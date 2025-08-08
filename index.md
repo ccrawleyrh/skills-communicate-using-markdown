@@ -13,8 +13,13 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
 
-Added H1 and H2 headers, Yaktocat, and code examples
+
+
+Added H1 and H2 headers, Yaktocat, code examples, and a task list
